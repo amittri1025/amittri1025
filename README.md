@@ -9,8 +9,6 @@
   <img align="left" alt="Amit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=amittri1025.amittri1025)
-
 <br />
 
 Hi, i'm [Amit Tripathi](https://amit-tripathi.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -35,35 +33,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   23 hrs 22 mins  ████████████████░░░░░░░░░   63.39 %
-JavaScript   12 hrs 6 mins   ████████▒░░░░░░░░░░░░░░░░   32.87 %
-JSON         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-SCSS         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amittri1025&show_icons=true&theme=gotham" alt="amittri1025" />
 
 
 
